@@ -45,7 +45,7 @@
     <img src ='https://github.com/DucAnhoooo/REPORT_RTR/blob/main/images/1.PNG' width="80%" height="80%">
 </div>
 
-Để đếm được số hình tròn trong hình trên ta thzzực hiện một số công đoạn sau:
+Để đếm được số hình tròn trong hình trên ta thực hiện một số công đoạn sau:
 - 1.Load tấm ảnh 
 - 2.Chuyển ảnh màu về ảnh xám
 - 3.Chuyển ảnh về dạng binary
@@ -74,7 +74,7 @@
 
 ## <a>Contour detection</a>
 <div align="center">
-    <img src="images/5.png" alt="Logo" width="800" height="300">
+    <img src="report/images/5.png" alt="Logo" width="800" height="300">
     <img src="images/6.png" alt="Logo" width="800" height="300">
 
 Get a free API Key at [https://docs.opencv.org/3.4/d3/dc0/group__imgproc__shape.html#ga17ed9f5d79ae97bd4c7cf18403e1689a](hhttps://docs.opencv.org/3.4/d3/dc0/group__imgproc__shape.html#ga17ed9f5d79ae97bd4c7cf18403e1689a)
