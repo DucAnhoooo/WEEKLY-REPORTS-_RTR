@@ -44,7 +44,7 @@
 <!-- GETTING STARTED -->
 ## <a>1.Đếm vật thể trong bức ảnh </a>
 <div align="center">
-    <img src ='https://github.com/DucAnhoooo/REPORT_RTR/blob/main/images/1.PNG' width="80%" height="80%">
+<img src ='https://github.com/DucAnhoooo/report/blob/main/images/1.PNG' width="80%" height="80%">
 </div>
 
 Để đếm được số hình tròn trong hình trên ta thực hiện một số công đoạn sau:
@@ -57,8 +57,7 @@
 
 ## <a>Color Conversion <a>
 <div align="center">
-    <img src="images/2.png" alt="Logo" width="800" height="300">
-    
+<img src="images/2.png" alt="Logo" width="800" height="300">
 </div>
 
 
@@ -112,7 +111,6 @@ Nguyên tắc chung của các phương pháp lọc là cho ma trận ảnh nhâ
 <img src="images/20.png" alt="Logo" width="800" height="300">
 <img src="images/21.png" alt="Logo" width="800" height="300">
 <img src="images/22.png" alt="Logo" width="800" height="300">
-<img src='images/22.png' alt = '22'>
 
 
 
