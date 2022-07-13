@@ -82,8 +82,10 @@ Get a free API Key at [https://https://docs.opencv.org/4.x/d7/d1b/group__imgproc
 <div align="center">
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/5.PNG" alt="Logo" width="800" height="300">
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/6.PNG" alt="Logo" width="800" height="300">
+  
 
 Get a free API Key at [https://docs.opencv.org/3.4/d3/dc0/group__imgproc__shape.html#ga17ed9f5d79ae97bd4c7cf18403e1689a](hhttps://docs.opencv.org/3.4/d3/dc0/group__imgproc__shape.html#ga17ed9f5d79ae97bd4c7cf18403e1689a)
+  
 </div>
   
   
@@ -95,7 +97,9 @@ Get a free API Key at [https://docs.opencv.org/3.4/d3/dc0/group__imgproc__shape.
 </div>
 
 ## <a>2.Noise image </a>
+  
 Nguyên tắc chung của các phương pháp lọc là cho ma trận ảnh nhân với một ma trận lọc (Kernel). Ma trận lọc lọc (Kernel) còn có thể được gọi là cửa số chập (trong phép nhân chập), cửa sổ lọc, mặt nạ,…
+  
 <div align="center">
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/10.PNG" alt="Logo" width="800" height="300">
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/11.PNG" alt="Logo" width="800" height="300">
