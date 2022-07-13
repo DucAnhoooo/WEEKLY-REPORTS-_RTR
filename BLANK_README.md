@@ -109,15 +109,15 @@ Nguyên tắc chung của các phương pháp lọc là cho ma trận ảnh nhâ
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/16.PNG" alt="Logo" width="800" height="300">
     
   </div>
-## <a>MORPHOLOGY <a>
+## <a>Color Conversion <a>
+<div align="center">
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/17.PNG" alt="Logo" width="800" height="300">
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/18.PNG" alt="Logo" width="800" height="300">
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/19.PNG" alt="Logo" width="800" height="300">
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/20.PNG" alt="Logo" width="800" height="300">
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/21.PNG" alt="Logo" width="800" height="300">
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/22.PNG" alt = '22'>
-
-
+</div>
 
 
 
