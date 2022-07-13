@@ -64,9 +64,9 @@
 ## <a>Thresholding </a>
 <div align="center">
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/3.PNG" width="80%" height="80%">
-<img src="images/4.png" alt="Logo" width="800" height="300">
+<img src="https://github.com/DucAnhoooo/report/blob/main/images/4.PNG" alt="Logo" width="800" height="300">
 Histogram of image: xác định giá trị threshold
-<img src="images/9.png" alt="Logo" width="800" height="300">
+<img src="(https://github.com/DucAnhoooo/report/blob/main/images/9.PNG)" alt="Logo" width="800" height="300">
 
 
 Get a free API Key at [https://https://docs.opencv.org/4.x/d7/d1b/group__imgproc__misc.html#gae8a4a146d1ca78c626a53577199e9c57](https://docs.opencv.org/4.x/d7/d1b/group__imgproc__misc.html#gae8a4a146d1ca78c626a53577199e9c57)
@@ -75,42 +75,42 @@ Get a free API Key at [https://https://docs.opencv.org/4.x/d7/d1b/group__imgproc
 
 ## <a>Contour detection</a>
 <div align="center">
-<img src="report/images/5.png" alt="Logo" width="800" height="300">
-<img src="images/6.png" alt="Logo" width="800" height="300">
+<img src="https://github.com/DucAnhoooo/report/blob/main/images/5.PNG" alt="Logo" width="800" height="300">
+<img src="https://github.com/DucAnhoooo/report/blob/main/images/6.PNG" alt="Logo" width="800" height="300">
 
 Get a free API Key at [https://docs.opencv.org/3.4/d3/dc0/group__imgproc__shape.html#ga17ed9f5d79ae97bd4c7cf18403e1689a](hhttps://docs.opencv.org/3.4/d3/dc0/group__imgproc__shape.html#ga17ed9f5d79ae97bd4c7cf18403e1689a)
 </div>
 ## <a>DEMO</a>
 <div align="center">
-<img src="images/7.png" alt="Logo" width="800" height="300">
+<img src="https://github.com/DucAnhoooo/report/blob/main/images/7.PNG" alt="Logo" width="800" height="300">
 <strong>Result</strong>
-<img src="images/8.png" alt="Logo" width="800" height="400">
+<img src="https://github.com/DucAnhoooo/report/blob/main/images/8.PNG" alt="Logo" width="800" height="400">
 
 </div>
 
 ## <a>2.Noise image </a>
 Nguyên tắc chung của các phương pháp lọc là cho ma trận ảnh nhân với một ma trận lọc (Kernel). Ma trận lọc lọc (Kernel) còn có thể được gọi là cửa số chập (trong phép nhân chập), cửa sổ lọc, mặt nạ,…
 <div align="center">
-<img src="images/10.png" alt="Logo" width="800" height="300">
-<img src="images/11.png" alt="Logo" width="800" height="300">
+<img src="https://github.com/DucAnhoooo/report/blob/main/images/10.PNG" alt="Logo" width="800" height="300">
+<img src="https://github.com/DucAnhoooo/report/blob/main/images/11.PNG" alt="Logo" width="800" height="300">
 Ảnh minh họa:
-<img src="images/14.png" alt="Logo" width="800" height="300">
-<img src="images/11.png" alt="Logo" width="800" height="300">
-<img src="images/12.png" alt="Logo" width="800" height="300">
+<img src="https://github.com/DucAnhoooo/report/blob/main/images/14.PNG" alt="Logo" width="800" height="300">
+<img src="https://github.com/DucAnhoooo/report/blob/main/images/11.PNG" alt="Logo" width="800" height="300">
+<img src="https://github.com/DucAnhoooo/report/blob/main/images/12.PNG" alt="Logo" width="800" height="300">
 Ảnh minh họa:
-<img src="images/15.png" alt="Logo" width="800" height="300">
-<img src="images/13.png" alt="Logo" width="800" height="300">
+<img src="https://github.com/DucAnhoooo/report/blob/main/images/15.PNG" alt="Logo" width="800" height="300">
+<img src="https://github.com/DucAnhoooo/report/blob/main/images/13.PNG" alt="Logo" width="800" height="300">
 Ảnh minh họa:
-<img src="images/16.png" alt="Logo" width="800" height="300">
+<img src="https://github.com/DucAnhoooo/report/blob/main/images/16.PNG" alt="Logo" width="800" height="300">
     
 </div>
 ## <a>Morphology </a>
-<img src="images/17.png" alt="Logo" width="800" height="300">
-<img src="images/18.png" alt="Logo" width="800" height="300">
-<img src="images/19.png" alt="Logo" width="800" height="300">
-<img src="images/20.png" alt="Logo" width="800" height="300">
-<img src="images/21.png" alt="Logo" width="800" height="300">
-<img src="images/22.png" alt = '22'>
+<img src="https://github.com/DucAnhoooo/report/blob/main/images/17.PNG" alt="Logo" width="800" height="300">
+<img src="https://github.com/DucAnhoooo/report/blob/main/images/18.PNG" alt="Logo" width="800" height="300">
+<img src="https://github.com/DucAnhoooo/report/blob/main/images/19.PNG" alt="Logo" width="800" height="300">
+<img src="https://github.com/DucAnhoooo/report/blob/main/images/20.PNG" alt="Logo" width="800" height="300">
+<img src="https://github.com/DucAnhoooo/report/blob/main/images/21.PNG" alt="Logo" width="800" height="300">
+<img src="https://github.com/DucAnhoooo/report/blob/main/images/22.PNG" alt = '22'>
 
 
 
