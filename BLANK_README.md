@@ -108,8 +108,8 @@ Nguyên tắc chung của các phương pháp lọc là cho ma trận ảnh nhâ
 Ảnh minh họa:
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/16.PNG" alt="Logo" width="800" height="300">
     
-</div>
-# <a>Morphology</a>
+  </div>
+## <a>MORPHOLOGY <a>
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/17.PNG" alt="Logo" width="800" height="300">
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/18.PNG" alt="Logo" width="800" height="300">
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/19.PNG" alt="Logo" width="800" height="300">
