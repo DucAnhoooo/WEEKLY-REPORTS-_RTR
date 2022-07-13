@@ -62,11 +62,15 @@
 
 
 ## <a>Thresholding </a>
+  
+  
 <div align="center">
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/3.PNG" width="80%" height="80%">
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/4.PNG" alt="Logo" width="800" height="300">
   
 Histogram of image: xác định giá trị threshold
+  
+  
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/9.PNG" alt="Logo" width="800" height="300">
 
 
