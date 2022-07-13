@@ -5,7 +5,7 @@
 
   ## <strong>Báo cáo tuần 1+2 </strong>
   # <a >Tìm hiểu về xử lý hình ảnh dùng opencv & Pythone</a>
-  <img src = 'https://github.com/DucAnhoooo/report/blob/main/images/10.PNG'>
+  
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -112,6 +112,7 @@ Nguyên tắc chung của các phương pháp lọc là cho ma trận ảnh nhâ
 <img src="images/20.png" alt="Logo" width="800" height="300">
 <img src="images/21.png" alt="Logo" width="800" height="300">
 <img src="images/22.png" alt="Logo" width="800" height="300">
+<img src='images/22.png' alt = '22'>
 
 
 
