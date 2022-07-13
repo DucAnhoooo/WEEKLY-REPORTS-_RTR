@@ -101,7 +101,7 @@ Nguyên tắc chung của các phương pháp lọc là cho ma trận ảnh nhâ
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/11.PNG" alt="Logo" width="800" height="300">
   
   
-Ảnh minh họa:
+  <a>Ảnh minh họa:</a>
   
   
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/14.PNG" alt="Logo" width="800" height="300">
@@ -109,12 +109,14 @@ Nguyên tắc chung của các phương pháp lọc là cho ma trận ảnh nhâ
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/12.PNG" alt="Logo" width="800" height="300">
   
   
-Ảnh minh họa:
+  <a>Ảnh minh họa:</a>
   
   
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/15.PNG" alt="Logo" width="800" height="300">
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/13.PNG" alt="Logo" width="800" height="300">
-Ảnh minh họa:
+  
+<a>Ảnh minh họa:</a>
+  
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/16.PNG" alt="Logo" width="800" height="300">
     </div>
   
