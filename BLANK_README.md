@@ -110,7 +110,7 @@ Nguyên tắc chung của các phương pháp lọc là cho ma trận ảnh nhâ
 <img src="images/19.png" alt="Logo" width="800" height="300">
 <img src="images/20.png" alt="Logo" width="800" height="300">
 <img src="images/21.png" alt="Logo" width="800" height="300">
-<img src="images/22.png" alt="Logo" width="800" height="300">
+<img src="images/22.png" alt = '22'>
 
 
 
