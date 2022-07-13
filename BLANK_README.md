@@ -1,9 +1,11 @@
 
 ## `Tên: Hà Đức Anh`
 <div align="center">
+  
 
   ## <strong>Báo cáo tuần 1+2 </strong>
   # <a >Tìm hiểu về xử lý hình ảnh dùng opencv & Pythone</a>
+  <img src = 'https://howtomechatronics.com/wp-content/uploads/2019/02/Brushless-motor-main-parts-a-stator-and-a-rotor.png?ezimgfmt=rs:352x270/rscb2/ng:webp/ngcb2'>
 </div>
 
 <!-- TABLE OF CONTENTS -->
