@@ -65,8 +65,9 @@
 <div align="center">
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/3.PNG" width="80%" height="80%">
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/4.PNG" alt="Logo" width="800" height="300">
+  
 Histogram of image: xác định giá trị threshold
-<img src="(https://github.com/DucAnhoooo/report/blob/main/images/9.PNG)" alt="Logo" width="800" height="300">
+<img src="https://github.com/DucAnhoooo/report/blob/main/images/9.PNG" alt="Logo" width="800" height="300">
 
 
 Get a free API Key at [https://https://docs.opencv.org/4.x/d7/d1b/group__imgproc__misc.html#gae8a4a146d1ca78c626a53577199e9c57](https://docs.opencv.org/4.x/d7/d1b/group__imgproc__misc.html#gae8a4a146d1ca78c626a53577199e9c57)
@@ -104,7 +105,7 @@ Nguyên tắc chung của các phương pháp lọc là cho ma trận ảnh nhâ
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/16.PNG" alt="Logo" width="800" height="300">
     
 </div>
-## <a>Morphology </a>
+# <a>Morphology</a>
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/17.PNG" alt="Logo" width="800" height="300">
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/18.PNG" alt="Logo" width="800" height="300">
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/19.PNG" alt="Logo" width="800" height="300">
