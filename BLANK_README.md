@@ -85,12 +85,13 @@ Get a free API Key at [https://https://docs.opencv.org/4.x/d7/d1b/group__imgproc
 
 Get a free API Key at [https://docs.opencv.org/3.4/d3/dc0/group__imgproc__shape.html#ga17ed9f5d79ae97bd4c7cf18403e1689a](hhttps://docs.opencv.org/3.4/d3/dc0/group__imgproc__shape.html#ga17ed9f5d79ae97bd4c7cf18403e1689a)
 </div>
+  
+  
 ## <a>DEMO</a>
 <div align="center">
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/7.PNG" alt="Logo" width="800" height="300">
 <strong>Result</strong>
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/8.PNG" alt="Logo" width="800" height="400">
-
 </div>
 
 ## <a>2.Noise image </a>
@@ -98,11 +99,19 @@ Nguyên tắc chung của các phương pháp lọc là cho ma trận ảnh nhâ
 <div align="center">
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/10.PNG" alt="Logo" width="800" height="300">
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/11.PNG" alt="Logo" width="800" height="300">
+  
+  
 Ảnh minh họa:
+  
+  
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/14.PNG" alt="Logo" width="800" height="300">
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/11.PNG" alt="Logo" width="800" height="300">
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/12.PNG" alt="Logo" width="800" height="300">
+  
+  
 Ảnh minh họa:
+  
+  
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/15.PNG" alt="Logo" width="800" height="300">
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/13.PNG" alt="Logo" width="800" height="300">
 Ảnh minh họa:
@@ -111,7 +120,7 @@ Nguyên tắc chung của các phương pháp lọc là cho ma trận ảnh nhâ
   
   
   
-## <a>Color Conversion <a>
+## <a>Morphology <a>
 <div align="center">
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/17.PNG" alt="Logo" width="800" height="300">
 <img src="https://github.com/DucAnhoooo/report/blob/main/images/18.PNG" alt="Logo" width="800" height="300">
