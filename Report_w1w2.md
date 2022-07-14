@@ -4,7 +4,7 @@
   
 
   ## <strong>Báo cáo tuần 1+2 </strong>
-  # <a >Tìm hiểu về xử lý hình ảnh dùng opencv & Pythone</a>
+  # <a >Tìm hiểu về xử lý hình ảnh dùng opencv & Python</a>
   
 </div>
 
