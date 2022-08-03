@@ -14,6 +14,7 @@
 - <a>Tuần 6,7: </a> Tìm hiểu về machine learning và mạng neural nhân tạo ứng dụng cho xử lý hình ảnh 
 - <a>Tuần 8,9:</a> Tìm hiểu về deep learning, tìm hiểu về các mạng CNN
 - <a>Tuần 10,11: </a> Tìm hiểu về Jetson Inference, và thực hiện một số bài toán trên Jetson nano:
+
          Bài toán 1: Chạy thử inference object detection trên jetson nano đối với video mẫu, bài toán phát hiện đối tượng người
          Bài toán 2: Chạy object tracking trên jetson nano
 - <a>Tuần 12,13 </a>: Tìm hiểu về mavlink và viết chương trình điều khiển cơ bản cho máy bay sử dụng mavlink 
